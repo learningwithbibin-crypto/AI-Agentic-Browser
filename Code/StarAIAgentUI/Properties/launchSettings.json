@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "StarAIAgentUI (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "StarAIAgentUI (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
