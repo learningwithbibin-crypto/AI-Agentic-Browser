@@ -43,3 +43,5 @@ In essence, the PlannerAgent acts as the intelligent planning engine, while Sema
 1. Add LLM Key in Code\StarAIAgentUI\Configs\appsettings.json
 2. Build project using Visual Studio, it will download the nuget packages.
 3. The UI application is built with WinUI 3. net8.0-windows10.0.19041.0 framework and Windows App SDK required.
+
+Used Codex, ChatGpt AI to solve few issues.
